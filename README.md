@@ -26,12 +26,15 @@ O [**Facebook**](https://www.facebook.com/) é uma das maiores rede social do mu
 
 ```bash
 ## Primeiro e preciso clonar este repositóro na sua maquina
-$ git clone https://github.com/Diego-DevsS/htmlCssJs/Facebook_loginPage
+$ git clone https://github.com/Diego-DevsS/UI-Facebook_loginPage
 
 ## Apos clonar o repositorio e so entrar na pasta
-$ cd SimpleHtmlCssJs/Facebook_loginPage
+$ cd UI-Facebook_loginPage
 
 ## E Abrir o arquivo principal no seu navegar padrão
+
+Ex:
+$ google-chrome index.html
 
 ```
 
