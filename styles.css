@@ -16,8 +16,9 @@ html, body {
 .container {
    width: 100vw;
    position: relative;
-
-   padding: 5em 0;
+   
+   text-aling: center;
+   padding: auto 0;
 }
 
 .contentmain {
@@ -270,6 +271,6 @@ html, body {
 
 @media only screen and (max-width: 390px) {
    *:not(html):not(body){
-      transform: scale(0.9);
+      transform: scale(0.95);
    }
 }
