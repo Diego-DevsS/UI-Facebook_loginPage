@@ -41,7 +41,7 @@ $ google-chrome index.html
 ### ou apenas clique no link abaixo
 <br>
 
-[![vercel](https://img.shields.io/static/v1?label=&message=VERCEL&color=black&style=for-the-badge&logo=VERCEL)](https://ui-facebook-login-page-2o4z77cnn-diego-devss.vercel.app/)
+[![vercel](https://img.shields.io/static/v1?label=&message=VERCEL&color=black&style=for-the-badge&logo=VERCEL)](https://ui-facebook-login-page-7jdyuc4sy-diego-devss.vercel.app//)
 
 ---
 
